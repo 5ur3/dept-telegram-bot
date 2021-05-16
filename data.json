@@ -1,0 +1,12 @@
+{
+    "depts": {
+        "12345": {}
+    },
+    "users": {
+        "12345": {
+            "name": "Change 12345 to your id, and fill your name and",
+            "alias": "Your alias"
+        }
+    },
+    "buyList": []
+}
